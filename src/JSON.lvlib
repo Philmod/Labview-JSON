@@ -8,4 +8,5 @@
 	<Item Name="dbl2json.vi" Type="VI" URL="../dbl2json.vi"/>
 	<Item Name="Test cluster2json.vi" Type="VI" URL="../Test cluster2json.vi"/>
 	<Item Name="espaceSpecCharacters.vi" Type="VI" URL="../espaceSpecCharacters.vi"/>
+	<Item Name="arrayOfClusters2json.vi" Type="VI" URL="../arrayOfClusters2json.vi"/>
 </Library>
